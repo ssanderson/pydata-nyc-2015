@@ -1,0 +1,6 @@
+[submodule "zipline"]
+	path = zipline
+	url = git@github.com:quantopian/zipline.git
+[submodule "RISE"]
+	path = RISE
+	url = git@github.com:damianavila/RISE.git
